@@ -73,7 +73,7 @@ L = [0.15, 0.35, 1.00, 2.30, 4.10, 7.00, 11.2, 17.5, 25.0, 35.0]
 Stellar luminosity is modeled as a linear function of mass:
 
 ```
-L̂ = wM + b
+ L̂= wM + b
 ```
 
 Where:
